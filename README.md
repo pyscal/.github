@@ -1,1 +1,1 @@
-# .github
+Organisation page for pyscal
