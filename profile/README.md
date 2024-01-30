@@ -4,4 +4,4 @@ Welcome to pyscal organisation page! Check out our repos:
 - [pyscal3](https://github.com/pyscal/pyscal3) : A modern, fast, and efficient version of pyscal, currently in development.
 - [pyscal_rdf](https://github.com/pyscal/pyscal_rdf): python tool for ontology-based creation, manipulation, and quering of structures using the Computational Material Sample Ontology.
 
-<img src="pyscal_logo2.png" alt="drawing" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/86793167?s=200&v=4" alt="drawing" width="200"/>
